@@ -1,0 +1,4 @@
+/home/slam/Documents/qin/ORB_slam_qin1/build/CMakeFiles/edit_cache.dir
+/home/slam/Documents/qin/ORB_slam_qin1/build/CMakeFiles/rebuild_cache.dir
+/home/slam/Documents/qin/ORB_slam_qin1/build/CMakeFiles/testFirst.dir
+/home/slam/Documents/qin/ORB_slam_qin1/build/CMakeFiles/ORBqin.dir
